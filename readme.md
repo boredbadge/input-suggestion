@@ -1,13 +1,6 @@
 # input-suggestion
 
-[![](https://circleci.com/gh/1000ch/input-suggestion.svg?style=shield&circle-token=c2cd81d5e68b0c2429278a315f2c1249c0d09378)](https://circleci.com/gh/1000ch/input-suggestion)
-[![NPM version](https://badge.fury.io/js/input-suggestion.svg)](http://badge.fury.io/js/input-suggestion)
-[![Dependency Status](https://david-dm.org/1000ch/input-suggestion.svg)](https://david-dm.org/1000ch/input-suggestion)
-[![devDependency Status](https://david-dm.org/1000ch/input-suggestion/dev-status.svg)](https://david-dm.org/1000ch/input-suggestion#info=devDependencies)
-
 Show suggestions when you input.
-
-![](demo.gif)
 
 ## Install
 
